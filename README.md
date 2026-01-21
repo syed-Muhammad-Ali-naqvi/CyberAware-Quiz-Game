@@ -1,4 +1,4 @@
-# Gamified CyberSecurity Awareness Game
+# CyberAware Quiz Game
 
 Welcome to the **Gamified CyberSecurity Awareness Game**, an interactive educational tool designed to enhance your understanding of cybersecurity concepts through engaging challenges. Built using PyQt6, this application offers a fun way to test and improve your knowledge of secure practices, phishing detection, and more.
 
